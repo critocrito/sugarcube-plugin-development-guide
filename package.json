@@ -1,0 +1,21 @@
+{
+  "name": "sugarcube-plugin-memento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@sugarcube/cli": "^0.31.0",
+    "@sugarcube/plugin-tap": "^0.31.0"
+  },
+  "dependencies": {
+    "dashp": "^0.10.1",
+    "date-fns": "^2.7.0",
+    "node-fetch": "^2.6.0"
+  }
+}
